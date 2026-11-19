@@ -17,7 +17,7 @@
   --accent: #e86f51;
   --paper: #fff;
   --line: #eae8e2;
-  --serif: 'Playfair Display', Georgia, serif;
+  --serif: 'DM Sans', 'Manrope', sans-serif;
 }
 
 * { box-sizing: border-box; }
